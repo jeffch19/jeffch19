@@ -10,7 +10,7 @@ I am deeply committed to continuous learning and problem-solving, traits that ar
 * 🖥️  See my portfolio at [My Portfolio](http://myportfolio199.netlify.app/)
 * ✉️  You can contact me at [17jcummings@gmail.com](mailto:17jcummings@gmail.com)
 * 🚀  I'm currently working on [Resume Titan](http://resumetitan.com)
-* 🧠  I'm learning C# / .NET
+* 🧠  Generative AI, RAG, LoRA and AI Agents.
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
